@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SOEN_387_A1:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOEN_387_A1_war</output-path>
+    <root id="archive" name="SOEN_387_A1_war.war">
+      <element id="artifact" artifact-name="SOEN_387_A1:war exploded" />
+    </root>
+  </artifact>
+</component>

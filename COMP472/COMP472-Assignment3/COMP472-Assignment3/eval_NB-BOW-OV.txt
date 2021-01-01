@@ -1,0 +1,1 @@
+Accuracy: 0.6364Precision:  Fact:0.6275  Not_Fact:0.75Recall: Fact:0.9697  Not_Fact:0.1364F1: Fact:0.7619  Not_Fact:0.2308

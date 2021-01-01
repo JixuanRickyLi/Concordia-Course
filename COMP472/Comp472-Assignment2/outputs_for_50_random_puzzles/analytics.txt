@@ -1,0 +1,33 @@
+ucs  Average solution length: 7.500000, Total solution length: 15
+ucs  Average no solutions: 0.960000, Total no solutions: 48
+ucs  Average search length: 34580.000000, Total search length: 69160
+ucs  Average cost: 1.133929, Total cost: 17
+ucs  Average time: 58.188730, Total time: 2909.436500
+
+===================================================================================
+
+gbfs-h1  Average solution length: 18.260000, Total solution length: 913
+gbfs-h1  Average no solutions: 0.000000, Total no solutions: 0
+gbfs-h1  Average search length: 81.300000, Total search length: 4065
+gbfs-h1  Average cost: 1.607303, Total cost: 1475
+gbfs-h1  Average time: 0.989590, Total time: 49.479500
+
+gbfs-h2  Average solution length: 20.140000, Total solution length: 1007
+gbfs-h2  Average no solutions: 0.000000, Total no solutions: 0
+gbfs-h2  Average search length: 102.180000, Total search length: 5109
+gbfs-h2  Average cost: 1.311702, Total cost: 1326
+gbfs-h2  Average time: 1.399844, Total time: 69.992200
+
+===================================================================================
+
+astar-h1  Average solution length: 12.088889, Total solution length: 544
+astar-h1  Average no solutions: 0.100000, Total no solutions: 5
+astar-h1  Average search length: 386.622222, Total search length: 17398
+astar-h1  Average cost: 1.286526, Total cost: 691
+astar-h1  Average time: 13.265658, Total time: 663.282900
+
+astar-h2  Average solution length: 11.820000, Total solution length: 591
+astar-h2  Average no solutions: 0.000000, Total no solutions: 0
+astar-h2  Average search length: 193.760000, Total search length: 9688
+astar-h2  Average cost: 1.165253, Total cost: 681
+astar-h2  Average time: 5.337226, Total time: 266.861300
